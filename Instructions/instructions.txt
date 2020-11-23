@@ -1,0 +1,3 @@
+To use my Black History Encyclopedia program simpley type a name into the search bar (case sensitive) and press search.
+The search name must be the persons full name.
+To run tests open to root folder and run "npm test".
